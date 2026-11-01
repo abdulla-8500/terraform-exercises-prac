@@ -1,2 +1,2 @@
-# terraform-exercises-prac
+# terraform-exercises
 Terraform Exercises f
